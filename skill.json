@@ -1,0 +1,10 @@
+{
+  "name": "genpark-student-space",
+  "version": "1.0.0",
+  "description": "GenPark Student Space - SuperMemo SM-2 spaced repetition scheduler, Ebbinghaus forgetting curve retention forecaster, and Rasch Item Response Theory calibrator with zero dependencies.",
+  "tools": [
+    "calculate_sm2_interval_and_ease",
+    "forecast_ebbinghaus_retention",
+    "calibrate_rasch_item_difficulty"
+  ]
+}
